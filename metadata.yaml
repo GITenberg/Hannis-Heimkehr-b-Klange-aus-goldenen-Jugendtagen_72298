@@ -5,12 +5,17 @@ contributor:
     agent_name: Buschberg, T.
     gutenberg_agent_id: '56641'
     url: http://www.gutenberg.org/2009/agents/56641
+covers:
+- cover_type: archival
+  image_path: 72298-h/images/cover.jpg
 creator:
   author:
     agent_name: Schaeder, Anna
     gutenberg_agent_id: '56640'
     url: http://www.gutenberg.org/2009/agents/56640
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72298#Hannis-Heimkehr-b-Klange-aus-goldenen-Jugendtagen
 gutenberg_issued: '2023-12-03'
 identifiers:
   gutenberg: '72298'
